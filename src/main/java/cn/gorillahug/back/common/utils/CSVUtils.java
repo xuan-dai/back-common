@@ -18,7 +18,6 @@ public class CSVUtils {
         if (CollectionUtils.isEmpty(data)) {
             return result;
         }
-
         CsvWriter csvWriter = new CsvWriter();
         StringWriter writer = new StringWriter();
 
