@@ -18,7 +18,7 @@
         <junit.version>4.12</junit.version>
         <fastjson.version>1.2.29</fastjson.version>
         <commons-lang3.version>3.9</commons-lang3.version>
-        <xstream.version>1.4.10</xstream.version>
+        <xstream.version>1.4.17</xstream.version>
     </properties>
 
     <dependencies>
