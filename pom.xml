@@ -16,7 +16,7 @@
         <logback-classic.version>1.1.7</logback-classic.version>
         <fastcsv.version>1.0.3</fastcsv.version>
         <junit.version>4.12</junit.version>
-        <fastjson.version>1.2.29</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <commons-lang3.version>3.9</commons-lang3.version>
         <xstream.version>1.4.10</xstream.version>
     </properties>
